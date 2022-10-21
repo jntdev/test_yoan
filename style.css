@@ -1,8 +1,12 @@
+body{
+    background-color: red;
+}
+
 .box{
     width: 150px;
     height: 150px;
     background-color: bisque;
-    margin: 30px;
+  
 }
 .Header{
     width: 100%;
